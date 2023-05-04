@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+
+}
+
+.square1 {
+    border: 1px solid black;
+    width: 45px;
+    height: 45px;
+    background-color: red;
+    margin-left: 20px;
+}
+
+.square2 {
+    width: 45px;
+    height: 45px;
+    border: 1px solid black;
+    background-color: blue;
+    margin-left: 20px;
+}
